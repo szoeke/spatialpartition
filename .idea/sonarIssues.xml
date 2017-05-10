@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/main/java/com/avisuite/axl/mom/AxlAftnProxyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/main/java/com/avisuite/axl/mom/AxlMBDSService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/main/java/com/avisuite/axl/mom/mbds/MBDSTransactionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/main/java/com/avisuite/axl/mom/wfs/AxlWebFeatureService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/main/java/com/avisuite/axl/mom/wfs/TransactionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/test/java/com/avisuite/axl/mom/MBDSDataTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/test/resources/mbds/data/delete/axlMbdsDeleteId126Request.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/test/resources/mbds/data/insert/axlMbdsInsertAxvodRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/test/resources/mbds/data/insert/axlMbdsInsertDuplicatedBinaryRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/test/resources/mbds/data/insert/axlMbdsInsertDuplicatedIdRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/AviSuite/axl/slr/src/test/resources/mbds/data/insert/axlMbdsInsertInvalidRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/axl-ext/axl-ext-gui/src/main/java/aero/avitech/axl/gfe/bridge/MbdsStoreThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/axl-ext/axl-ext-gui/src/main/java/aero/avitech/axl/gfe/presentation/components/DetailsPane.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertARINC424Request.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertAxvodRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertBigGeoTiffRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertBriefingRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertCADRGRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertDAFIFRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertDTEDRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertDXFRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertDebriefingRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertDuplicatedBinaryRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertDuplicatedIdRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertECHUMRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertGPSAlmanachYUMARequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertGRIBRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertGeoTiffRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertJPEG2000Request.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertJPEGRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertMagVarRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertMetarRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertNITFRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertNotValid.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertNotamRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertShapefileRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertTafRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertTaskingRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertTiffRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsInsertVMAPRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/script/src/main/resources/doc/xml/axlMbdsReplaceGeoTiffRequest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/Axl/Software/Avitech/APP/axl/server/srv-axl/src/izpack/cfg/AviServ_MBDS.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Projekt/helper/src/main/java/Helper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../Projekt/helper/src/main/java/Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/Grid.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/QuadTree.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/Unit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/positioning/Partition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/positioning/Position.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/unit/Unit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatial/partition/units/Partition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatiol/partition/Grid.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/spatiol/partition/Unit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/Locator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/Nyuszmusz.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/ParticleType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/SkyLauncher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/SoundPlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/Superpower.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/particle/ParticleSystem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/iluwatar/subclass/sandbox/particle/ParticleType.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/szte/szoke/kristof/subclass/sandbox/SkyLauncher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/szte/szoke/kristof/subclass/sandbox/SoundPlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/szte/szoke/kristof/subclass/sandbox/Superpower.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/szte/szoke/kristof/subclass/sandbox/misi/App.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/szte/szoke/kristof/subclass/sandbox/misi/Audio.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/szte/szoke/kristof/subclass/sandbox/misi/PlayMessage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/SpatialPartitionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Szakdoga/SonarQube-plug-in-master/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
